@@ -1,0 +1,1 @@
+ Important — medical disclaimer: This tool provides calculations only. It is not a substitute for clinical judgment. Always verify numbers with local guidelines and consult a clinician for treatment decisions.
