@@ -17,3 +17,8 @@ altair
 requests
 openpyxl
 python-docx
+streamlit
+pandas
+numpy
+reportlab
+
